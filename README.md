@@ -1,1 +1,1 @@
-# gpa-smt-ufr.github.io
+# gpa-smt-ufrj.github.io
