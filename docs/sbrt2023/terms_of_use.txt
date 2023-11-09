@@ -1,0 +1,73 @@
+**GLOBO’S DATASET TERMS OF USE **
+
+The present Terms of Use (“Terms”) regulates the license of use that GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A., a company organized and existing in accordance with the Brazilian laws, with head offices at Rua Lopes Quintas 303, in the city and State of Rio de Janeiro, enrolled in the Brazilian tax registration number 27.865.757/0001-02 (hereinafter simply referred to as “Globo”), grants to the individual or entity that exercises the rights licensed under these Terms (“You”) for the use of audios referring to the reading of texts published on Jornal Nacional’s page on the “G1” website, owned by Globo (hereinafter referred to as “Contents”), which are stored at this dataset (“Dataset”).
+
+**1. Grant of License of Use **
+
+1.1. The scope of these Terms is a non-exclusive, non-sublicensable authorization, for an undefined term, hereby granted by Globo to You, to use the Contents made available via the Dataset for non-commercial purposes, exclusively for the deployment and promotion of research for development and improvement of technologies, including the elaboration of scientific articles, reports and/or any other type of academic publication. Any other form of use of the Contents stored in the Dataset is prohibited.
+
+1.1.1. The authorization hereby granted is royalty-free, non-exclusive, and restricted to the use of the Contents made available in the Dataset under the terms and conditions mentioned herein. The storage of the Contents, as well as the capture, reproduction, use in any media, or by any other modality, or use in any medium, for commercial purposes or not, without previously obtaining Globo´s express authorization, is expressly prohibited. Thus, any form of use that has not been expressly authorized by Globo is prohibited. It is also expressly forbidden to assemble, alter, manipulate and/or transform the Contents, by any means or process. If the Contents contain Globo's brands or logos, they must be maintained by You, and the inclusion of any type of advertising, brand and/or sponsors, which may be related to the Contents, is prohibited, unless expressly authorized by Globo. Globo does not authorize the dubbing of voices/performances contained in the Content.
+
+1.2. You may not, under any circumstances, grant or allow third parties to exploit, under any justification, whether for commercial purposes or not, in Brazil and/or abroad, the Contents, as well as its extracts, excerpts and parts, and You will be responsible for any use not permitted in this instrument, under penalty of being liable for misuse. You hereby undertake to reimburse Globo for all and any damages that it may suffer if such grant or unauthorized use occurs.
+
+1.3. Globo reserves the right to revoke this authorization, at its sole discretion, without the need for any compensation, if it becomes aware of any non-compliance with the conditions established in these Terms.
+
+1.4. The use of the Contents in VOD (video on demand) and OTT (over the top) services is expressly prohibited. Failure to comply with this item is cause for immediate termination of the license hereby granted, without prejudice to a claim compensation for losses and damages, at Globo’s sole discretion.
+
+1.5. You undertake to use the Dataset and the Contents properly and diligently, exclusively for the purposes specified in these Terms, as well as to refrain from using them for purposes or as a mean of committing unlawful acts, prohibited by law and/or rules of these Terms and/or harmful to the rights and interests of Globo and/or third parties, subject to the provisions of item 1.3.
+
+1.6. Globo reserves the right to, unilaterally, add or remove any functionality and/or Content from the Dataset, expand or reduce its storage capacity or usability, alter its presentation, as well as temporarily restrict or suspend its availability, or even terminate it permanently or temporarily, at any time, at its sole discretion, and without prior notice or consent.
+
+1.7. Globo will use its best efforts to ensure the correct functioning of the Dataset without interference of any kind. However, considering the characteristics of the Internet environment, Globo does not guarantee the availability, infallibility and continuity of the Dataset, nor that it will be useful for performing any activity in particular, for which Globo exempts itself from any liability for direct or indirect damages of any nature that may result from the unavailability, failure and/or alteration in the Dataset.
+
+**2. Intellectual Property **
+
+2.1. Globo declares to be fully responsible for the authorization granted herein.
+
+2.2. You acknowledge that all Contents made available in the Dataset are owned exclusively by Globo.
+
+2.3. The reproduction or use of the Contents available in the Dataset in disagreement with the rules established in these Terms constitute a violation of Globo’s intellectual property rights and may give rise to the application of the penalties provided by Law.
+
+2.4. You will be held responsible to Globo and/or third parties for any claim or demand, judicial or extrajudicial, which, in any way, has as its object the use of the Contents made available in the Dataset for purposes other than those authorized, especially in cases of unauthorized use of texts, works image and/or voice of third parties depicted in the Contents.
+
+2.6. You hereby exempt Globo from any and all claims by third parties related to the use of the Contents in a diverse manner from those stipulated herein, including judicial costs and attorney fees, and You are also obliged to immediately exclude Globo from any disputes, in case it is sued, as well as regressively indemnify Globo, in case it its ordered to pay any amount, in any capacity.
+
+**3. Content Protection **
+
+3.1. You hereby undertake to provide adequate security to prevent duplication, copying and/or unauthorized use of the Contents. You further agree to immediately inform Globo of any kind of unauthorized use, as well as to take all necessary measures to prevent such unauthorized use.
+
+3.2. You shall use reasonable efforts to prevent any infringement of the Contents, including eventual violations by transmissions or duplication of the Contents by third parties.
+
+3.3. If You are notified by Globo of possible infringements, Globo may require You, immediately and at your expense, to cease using the Content, without the need to reimburse or compensate You.
+
+3.4. You acknowledge that the breach, by action or omission, of the foregoing may cause irreparable damage to Globo and that, in addition to other measures, Globo may use preliminary or injunctive measures to stop any breach indicated in these Terms. The confidentiality obligations assumed herein shall survive the completion of the research developed under the terms authorized herein.
+
+**4. Credits **
+
+4.1. If You use the Contents, You must reference the Dataset in an adequate manner, according to the guidance contained in these Terms. The inclusion of any kind of publicity, brand and/or sponsors, which may be related to the Contents, is expressly prohibited, unless with prior and express authorization from Globo.
+
+4.2. When using the Contents, You must credit the article entitled “Neutral TTS Female Voice Corpus in Brazilian Portuguese” published at the XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBRT 2023), DOI nº 10.14209/sbrt.2023.1570917697.
+
+**5. Other Terms and Conditions **
+
+5.1. It is expressly and irrevocably agreed that the abstention from the exercise, by You or by Globo, of any right or faculty given by these Terms, or the agreement with the delay in the fulfillment of the obligations agreed herein, will not affect such given right or faculty, which may be exercised, at any time, at sole discretion of their owner, and will not change the conditions agreed in these Terms.
+
+5.2. None of the provisions contained in these Terms will create any association, partnership, joint venture or agency relationship between the Parties.
+
+5.3. These Terms and/or their rights and obligations may not be sublicensed by You without Globo’s prior written consent.
+
+5.4. You declare to have read, to be aware and in full agreement with the content and conditions of these Terms.
+
+**6. Limitation of Liability **
+
+6.1. Globo provides the Contents “as-is” and “as-available” and makes no representations or warranties in relation to the Contents, either express, implied, legal, or otherwise. This includes, but is not limited to, warranties concerning the adequation for a particular purpose, non-infringement of rights, absence of latent and other defects, accuracy, or the existence or absence of errors, known or detectable or otherwise. Globo does not guarantee any authorization/release of third party rights that integrate the Contents, eventually necessary for the use of the Contents for the purposes herein specified, such as, for example, authorization of personal rights, copyrights, etc.
+
+6.2. Globo will not, under any circumstances, be liable to You, for any losses, costs, expenses or direct, especial, indirect, incidental, consequential, punitive, exemplary or other damages, resulting from your use of the Contents.
+
+**7. Jurisdiction **
+
+7.1. You and Globo hereby agree that any action or proceeding against any of the parties relating in any way to these Terms shall be presented exclusively and finally resolved before the Central Court of Rio de Janeiro, which shall have exclusive jurisdiction to decide or hear any dispute arising out of or in any way connected with these Terms.
+
+**8. Anticorruption **
+
+8.1. You and Globo undertake to fully comply with all applicable anticorruption laws, including Law number 12.846/2013 and its regulation. In addition, You and Globo undertake, in exercising the rights and obligations provided in these Terms, not to give, offer or promise goods and any other thing of value or advantage of any nature whatsoever to public agents or to any person related to such public agents or any other person, company and/or private entity, so as to obtain an undue advantage, influence any act or decision, and/or unlawfully direct business.
